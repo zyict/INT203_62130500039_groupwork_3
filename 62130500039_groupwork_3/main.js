@@ -2,15 +2,15 @@
         data() {
             return {
                 shirts: [{
-                        image: '//cdn.shopify.com/s/files/1/0521/0400/3735/products/whitelogoteefront_1024x1024.png?v=1612491469',
+                        image: './images/whitelogoteefront_1024x1024.png',
                         done: false
                     },
                     {
-                        image: '//cdn.shopify.com/s/files/1/0521/0400/3735/products/white3front_1024x1024.png?v=1612492454',
+                        image: './images/white3front_1024x1024.png',
                         done: false
                     },
                     {
-                        image: '//cdn.shopify.com/s/files/1/0521/0400/3735/products/resizedwhiteteelarge_1024x1024.png?v=1612490593',
+                        image: './images/resizedwhiteteelarge_1024x1024.png',
                         done: false
                     }
                 ]
